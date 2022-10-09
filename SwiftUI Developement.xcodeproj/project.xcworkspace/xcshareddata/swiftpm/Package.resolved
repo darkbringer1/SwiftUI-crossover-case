@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DefaultNetworkOperationPackage",
+        "repositoryURL": "https://github.com/darkbringer1/DefaultNetworkOperationPackage.git",
+        "state": {
+          "branch": null,
+          "revision": "cec88d8a84544f71118ce2d3a5794b1e39597587",
+          "version": "1.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
